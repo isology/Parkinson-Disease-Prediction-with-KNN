@@ -31,7 +31,8 @@ To run the notebook:
 jupyter notebook
 
 
-**IF you have homebrew: **
+**IF you have homebrew:**
+
 Homebrew is a package manager for macOS and Linux. You can use it to install Jupyter by running:
 
 brew install jupyterlab
