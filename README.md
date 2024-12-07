@@ -2,6 +2,7 @@
 A Machine Learning model using K-Nearest Neighbor Algorithm to Predict Parkinson Disease 
 
 To Run The Code:
+
 **1) INSTALLATION OF CODE ENVIRONMENT**
 Project Jupyter’s tools are available for installation via the Python Package Index, the leading repository of software created for the Python programming language.
 
